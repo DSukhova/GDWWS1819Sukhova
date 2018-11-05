@@ -150,5 +150,7 @@ console.log (mySecondFunc ()); //  ruft das Ergebnis der zweiten Funktion auf
     //3.11.2018
 
 
+
+
 rl.close();
 });

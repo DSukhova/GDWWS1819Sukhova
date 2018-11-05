@@ -1,0 +1,63 @@
+{ "citiesArray": [
+  {
+    "id": 1,
+    "stadt": "Berlin",
+    "einwohnerzahl": 3613000,
+    "bundesland": "Berlin"
+  },
+  {
+    "id": 2,
+    "stadt": "Hamburg",
+    "einwohnerzahl": 1830000,
+    "bundesland": "Hamburg"
+  },
+  {
+    "id": 3,
+    "stadt": "München",
+    "einwohnerzahl": 1464000,
+    "bundesland": "Bayern"
+  },
+  {
+    "id": 4,
+    "stadt": "Köln",
+    "einwohnerzahl": 1080000,
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 5,
+    "stadt": "Frankfurt am Main",
+    "einwohnerzahl": 7460000,
+    "bundesland": "Hessen"
+  },
+  {
+    "id": 6,
+    "stadt": "Stuttgart",
+    "einwohnerzahl": 628000,
+    "bundesland": "Bader-Würtemberg"
+  },
+  {
+    "id": 7,
+    "stadt": "Düsseldorf",
+    "einwohnerzahl": 613000,
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 8,
+    "stadt": "Dortmund",
+    "einwohnerzahl": 585000,
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 9,
+    "stadt": "Essen",
+    "einwohnerzahl": 583000,
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 10,
+    "stadt": "Leipzig",
+    "einwohnerzahl": 571000,
+    "bundesland": "Sachsen"
+  }
+]
+}
